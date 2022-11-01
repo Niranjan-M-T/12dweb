@@ -1,0 +1,39 @@
+body{
+    background-color:#ffbb99;
+    background-image: url('./assets/images/pattern1.png');
+}
+
+/* Navbar */
+
+#class12d {
+    font-size:xx-large;
+}
+#batch22-23 {
+    font-size: x-large;
+}
+/* Colours */
+.bg-custom1{
+    background-color: #b33c00;
+}
+.bg-custom2{
+    background-color:#e64d00 ;
+}
+.bg-custom3{
+    background-color: #1a0900;
+}
+.fg-custom1{
+    color: #b33c00;
+}
+.fg-custom2{
+    color:#e64d00 ;
+}
+.fg-custom3{
+    color: #1a0900;
+}
+.fg-custom4{   
+    color: #ffbb99;
+}
+
+#custom-main-slide{
+    align-items: center;
+}
