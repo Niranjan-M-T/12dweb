@@ -37,3 +37,18 @@ body{
 #custom-main-slide{
     align-items: center;
 }
+#carouselExampleIndicators{
+    width: 50%;
+    padding-top: 5px;
+}
+
+
+/* FOR MOBILE DEVICES */
+
+@media (max-device-width: 420px ) {
+    #carouselExampleIndicators{
+    width: 100%;
+    }
+}
+
+
